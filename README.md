@@ -22,7 +22,7 @@ A Python script that queries the VirusTotal API to analyze file hashes and retri
     ```
     python ./Script.py <hash_file.txt> <api_file.txt>
     ```
-4) The output csv is saved at the same directory as the script and is named "output.csv"
+4) The output csv is saved at the same directory as the script and is named "output.csv".
 
 ## Acknowledgements
 - This script utilizes the VirusTotal API to query and retrieve detailed file analysis results. VirusTotal is a service that provides free and comprehensive file and URL scanning to detect potential threats. Visit their [website](https://docs.virustotal.com/reference/overview) for more information.
