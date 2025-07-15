@@ -17,7 +17,7 @@ A Python script that queries the VirusTotal API to analyze file hashes and retri
 
 ## Setup / How to Run
 1) Download the python scipt.
-2) Put the .txt file containing the hash the VirusTotal API in the same directory as the python script.
+2) Put the .txt file containing the hash and the VirusTotal API in the same directory as the python script.
 3) Run the python script using the command:
     ```
     python ./Script.py <hash_file.txt> <api_file.txt>
